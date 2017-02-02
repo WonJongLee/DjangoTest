@@ -1,12 +1,12 @@
 #Django
 
 간단한 설명:
-'''
+```
 manage.py : django 프로젝트 관리
 settings.py : 장고에 관한 각종 설정들
 urls.py : 홈페이지 주소를 장고와 연결 해 주는 역할
 wsgi.py : 장고 실행 서버 관련 설정
-'''
+```
   
 
 1. 가상환경 설정(Windows)
